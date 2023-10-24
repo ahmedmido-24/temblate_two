@@ -1021,6 +1021,10 @@ header nav .form i {
 }
 .footer .social-icons i {
   padding: 10px 15px;
+  cursor: progress;    
+}
+.footer .social-icons i:hover{
+  color: var(--main-color);
 }
 .footer .copyright {
   margin-top: 60px;
